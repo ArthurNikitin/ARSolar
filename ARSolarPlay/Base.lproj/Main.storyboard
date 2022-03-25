@@ -41,7 +41,7 @@
                                     <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="a6n-Sg-rCQ">
                                         <rect key="frame" x="24" y="124" width="193" height="53"/>
                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                        <state key="normal" title="VR镜头模式"/>
+                                        <state key="normal" title="VR lens mode"/>
                                         <connections>
                                             <action selector="btnVRModeClicked:" destination="1Jx-fc-TfS" eventType="touchUpInside" id="419-y7-S5I"/>
                                         </connections>
@@ -49,7 +49,7 @@
                                     <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="kmV-Jd-dYJ">
                                         <rect key="frame" x="32" y="35" width="185" height="58"/>
                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                        <state key="normal" title="进入AR视图"/>
+                                        <state key="normal" title="Start AR"/>
                                         <connections>
                                             <action selector="btnClicked:" destination="1Jx-fc-TfS" eventType="touchUpInside" id="RRz-O4-riG"/>
                                         </connections>
